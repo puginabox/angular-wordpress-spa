@@ -3,6 +3,6 @@
 
 
 ##Site Details:
-..* **Database Name:** angular-wordpress-spa
-..* **User:** griffin
-..* **Password:** griffin
+* **Database Name:** angular-wordpress-spa
+* **User:** griffin
+* **Password:** griffin
