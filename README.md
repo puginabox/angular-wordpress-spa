@@ -1,8 +1,8 @@
-# angular-wordpress-spa
-single page application based on Wordpress &amp; AngularJS
+# angular Wordpress SPA
+###a single page application based on Wordpress &amp; AngularJS
 
 
-
-Database Name: angular-wordpress-spa
-User: griffin
-Password: griffin
+##Site Details:
+..* **Database Name:** angular-wordpress-spa
+..* **User:** griffin
+..* **Password:** griffin
